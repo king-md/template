@@ -534,6 +534,7 @@ Source files here are for defining a standard launch point for any/all command l
 ### Languages with a getopt template file:
 
 | Language | Filename | Notes |
+| -------- | -------- | ----- |
 | Python3 | getopt_template.py | work in progress |
 | C | TBD | future goal |
 | C++ | TBD | future goal |
@@ -552,6 +553,7 @@ These instructions will get you a copy of the project up and running on your loc
 Prerequisites/requirements vary for each languange.
 
 | Language | Required | Notes |
+| -------- | -------- | ----- |
 | Python3 | import argparse | - |
 | C | TBD | - |
 | C++ | TBD | - |
