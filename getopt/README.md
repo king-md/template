@@ -4,6 +4,10 @@ Source files here are for defining a standard launch point for any/all command l
 
 ### Common Command Line Options
 
+| Compiler        | Operating System             | Version String |
+|-----------------|------------------------------|----------------|
+| GCC 4.9.4       | Ubuntu 14.04.5 LTS           | g++-4.9 (Ubuntu 4.9.4-2ubuntu1~14.04.1) 4.9.4 |
+
 | Option | Description | Notes |
 | -a | all |  |
 | -a | append |  |
