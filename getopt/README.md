@@ -137,7 +137,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --clear | clear |  |
 | --close | close |  |
 | --colons | colons |  |
-| --column=<#|string> | column |  |
+| --column=<#\|string> | column |  |
 | --command=<command string> | command to execute |  |
 | --common | common |  |
 | --compare | compare |  |
@@ -217,7 +217,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --fully-qualified-domain-name=<domain name> | fully qualified domain name |  |
 | --get | get |  |
 | --graphic | graphic |  |
-| --group=<group #|group name> | group |  |
+| --group=<group #\|group name> | group |  |
 | --guid=<guid #> | guid |  |
 | --hashsize=<size> | hashsize |  |
 | --header=<key=value>[,<key=value>,...] | header |  |
@@ -238,7 +238,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --ignore-errors | ignore-errors |  |
 | --ignore-file=<filepath> | ignore-file |  |
 | --ignore-indentation | ignore-indentation |  |
-| --ignore-interrupts[=<#|name>[,<#|name>,...]] | ignore-interrupts |  |
+| --ignore-interrupts[=<#\|name>[,<#\|name>,...]] | ignore-interrupts |  |
 | --ignore-matching-lines | ignore-matching-lines |  |
 | --ignore-null | ignore-null |  |
 | --ignore-zeros | ignore-zeros |  |
@@ -262,7 +262,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --ip=<ip addr> | ip |  |
 | --ipaddr=<ip addr> | ipaddr |  |
 | --ip-address=<ip addr> | ip-address |  |
-| --job=<#|name> | job |  |
+| --job=<#\|name> | job |  |
 | --job-id=<#> | job-id |  |
 | --job-name=<name> | job-name |  |
 | --json | json |  |
@@ -282,7 +282,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --log[=<filepath>] | log |  |
 | --log-dir=<dirpath> | log-dir |  |
 | --log-dir-path=<dirpath> | log-dir-path |  |
-| --log-level=<#|level name> | log-level |  |
+| --log-level=<#\|level name> | log-level |  |
 | --log-path=<dirpath> | log-path |  |
 | --log-roll[=<frequency>] | log-roll |  |
 | --log-type=<type> | log-type |  |
@@ -363,17 +363,17 @@ Source files here are for defining a standard launch point for any/all command l
 | --output-suffix=<string> | output-suffix |  |
 | --override | override |  |
 | --overwrite | overwrite |  |
-| --own[=<#|name>] | own |  |
-| --owner[=<#|name>] | owner |  |
+| --own[=<#\|name>] | own |  |
+| --owner[=<#\|name>] | owner |  |
 | --open[=<filepath>] | open |  |
 | --paginate | paginate |  |
 | --paragraph-indent | paragraph-indent |  |
 | --parent | parent |  |
 | --parents | parents |  |
 | --pid=<#> | pid |  |
-| --ping[=<ipaddr|string>] | ping |  |
+| --ping[=<ipaddr\|string>] | ping |  |
 | --pop | pop |  |
-| --port=<#|name> | port |  |
+| --port=<#\|name> | port |  |
 | --port-name=<name> | port-name |  |
 | --ppid=<#> | ppid |  |
 | --prefix=<string> | prefix |  |
@@ -382,14 +382,14 @@ Source files here are for defining a standard launch point for any/all command l
 | --preserve-modification-time | preserve-modification-time |  |
 | --preserve-order | preserve-order |  |
 | --preserve-permissions | preserve-permissions |  |
-| --pri=<#|string> | pri |  |
+| --pri=<#\|string> | pri |  |
 | --print | print |  |
 | --print-data-base | print-data-base |  |
 | --print-directory | print-directory |  |
 | --print-file-name | print-file-name |  |
 | --print-symdefs | print-symdefs |  |
 | --printer=<print identifier> | printer |  |
-| --priority=<#|string> | priority |  |
+| --priority=<#\|string> | priority |  |
 | --prof | prof |  |
 | --profile | profile |  |
 | --prompt=<string> | prompt |  |
@@ -409,7 +409,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --read-only | read-only |  |
 | --read-write | read-write |  |
 | --receive | receive |  |
-| --record[=<#|identifier>] | record |  |
+| --record[=<#\|identifier>] | record |  |
 | --record-number=<#> | record-number |  |
 | --recursive | recursive |  |
 | --reference | reference |  |
@@ -513,7 +513,7 @@ Source files here are for defining a standard launch point for any/all command l
 | --uri=<uri string> | uri |  |
 | --url=<url string> | url |  |
 | --usage | usage |  |
-| --user=<#|name> | user |  |
+| --user=<#\|name> | user |  |
 | --username=<name> | username |  |
 | --user-name=<name> | user-name |  |
 | --validate | validate |  |
